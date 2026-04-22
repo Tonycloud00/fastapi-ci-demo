@@ -22,6 +22,4 @@ jobs:
 
     - name: Run tests (CI)
       run: PYTHONPATH=. pytest  
-
-    - name: Build Docker image
-      run: docker build -t fastapi-ci-demo .
+      
