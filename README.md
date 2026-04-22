@@ -1,4 +1,4 @@
-fastapi-ci-docker/
+fastapi-ci/
 │
 ├── app/
 │   ├── main.py
@@ -8,8 +8,7 @@ fastapi-ci-docker/
 │   └── test_todo.py
 │
 ├── requirements.txt
-├── Dockerfile
-├── .dockerignore
+├
 │
 └── .github/
     └── workflows/
